@@ -1,0 +1,2 @@
+Binary search requires sorted data.
+It has a time complexity of O(log n).
